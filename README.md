@@ -9,7 +9,7 @@ Soy un estudiante apasionado por la tecnología, actualmente en el último año 
 
 ### 📫 Conecta conmigo
 
-[LinkedIn](www.linkedin.com/in/adrian-gómez-catacora-b604792b8)
+[LinkedIn](https://www.linkedin.com/in/adrian-gómez-catacora-b604792b8)
 
 [Correo electrónico](gcadrianj@gmail.com)
 
