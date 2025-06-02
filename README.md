@@ -36,5 +36,4 @@ Soy un estudiante apasionado por la tecnología, actualmente en el último año 
 - Implementé soluciones backend con .NET Core y Entity Framework, desarrollando servicios RESTful y optimizando procesos de negocio.
 - Automatizé la generación de reportes dinámicos en el ERP, mejorando la calidad y eficiencia en la presentación de datos.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AdrjGo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrjGo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdrjGo&theme=dark&hide_border=true&border_radius=7.9&locale=es)](https://git.io/streak-stats)
